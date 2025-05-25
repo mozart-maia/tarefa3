@@ -1,0 +1,22 @@
+1 - git init
+2 - git add .
+3 - git commit -m "commit inicial"
+4 - git add .
+5 - git diff 3a84
+6 - git commit -m "feat: adicionado titulos a ascii2 e ascii3"
+7 - git log
+8 - git log --graph
+9 - git revert 172e
+10 - git stash
+11 - git stash list
+12 - git checkout -b branch_temp
+13 - git checkout main
+14 - git stash pop
+15 - git add .
+16 - git commit -m "feat: titulo em ascii1"
+17 - git checkout 3a8499c1
+18 - git tag -a v1.0 -m "versao 1.0"
+19 - git remote add origin https://github.com/mozart-maia/tarefa3.git
+20 - git push origin v1.0
+21 - git checkout main
+22 - git push --set-upstream origin main
