@@ -1,4 +1,3 @@
-titulo: coelho em ascii art
                                   ,;;;, 
                                 ,;;;;;;;, 
              .;;;,            ,;;;;;;;;;;;, 
@@ -36,3 +35,4 @@ titulo: coelho em ascii art
                        @@@@@@@@'`@@@@@@@@' 
                        `@@@@@'    @@@@@' 
                         `@@'       @@'
+                        

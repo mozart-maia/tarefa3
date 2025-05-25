@@ -1,5 +1,3 @@
-titulo: alice em ascii art
-
                 .,,.    ..
                   z$$$$$b c$$$L
                ,,$$$$$$$F,,"?$$                .,,,
